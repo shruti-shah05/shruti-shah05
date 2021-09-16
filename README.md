@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shruti Shah.
 - I’m a current graduate student pursuing Masters in Data Science and interested in opportunities in Data Science field. 
-- I’m currently learning Data Analysis and Regression (R) and Fundamentals of Data Science at DePaul University. 
-  My previous course work includes : Introduction to Python, Database Processing for Large-Scale Analytics, and Data Visualization(Tableau)
+- I’m currently taking Machine Learning at DePaul University. 
+  My previous course work includes : Introduction to Python, Database Processing for Large-Scale Analytics, and Data Visualization(Tableau), Data Analysis and Regression (R) and     Fundamentals of Data Science
 - You can reach me at shahshruti857@gmail.com
 - LinkedIn : https://www.linkedin.com/in/shruti-shah-8185b7159/
 
